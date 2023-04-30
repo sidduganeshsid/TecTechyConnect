@@ -4,7 +4,10 @@ header{
   padding: 20px;
   text-align: center;
 }
-
+h1{
+/*  font-family: 'Lobster', cursive; */
+  font-family: 'Dancing Script', cursive;
+}
 body{
   font-family: Arial, Helvetica, sans-serif;
   background-color: #f2f2f2;
