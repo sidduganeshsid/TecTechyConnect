@@ -49,6 +49,7 @@ main {
   padding: 20px;
   text-align: center;
 }
+/*
 ul{
   margin-block-start: 1em;
   margin-block-end: 1em;
@@ -56,7 +57,7 @@ ul{
   margin-inline-end: 0px;
   padding-inline-start: 40px;
 }
-
+*/
 footer{
   background-color: #aa80f3;
   color: #fff;
